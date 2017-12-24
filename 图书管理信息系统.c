@@ -1,4 +1,6 @@
 //图书管理信息系统
+//暂未测试
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct BOOK * pBook;
