@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
-//一个始终礼物
+//初始化十个礼物
 typedef struct Twisted_egg_machine{
     char gift_1[15];
     char gift_2[10];
